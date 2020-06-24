@@ -1,10 +1,15 @@
+# COVIDEX
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/tummanoon77/COVI-DEX)
+![GitHub followers](https://img.shields.io/github/followers/tummanoon77?label=Follow%20Tummanoon&style=social)
+
+
 # Project Title
 
 Project CoviDex is a simple data display app showing key coronavirus infection data (from local API) by state and for the US overall.
 
 ## Getting Started
 
-The project deployment is a single URL click which opens in any browser: https://koutron.github.io/Project-CoviDex/
+The project deployment is a single URL click which opens in any browser: https://tummanoon77.github.io/COVI-DEX/
 Use the search input to search by US state and see the daily data populate for date | positive | recovered | deaths
 
 **add note about yesterday vs todays data logic
@@ -62,3 +67,6 @@ Jira backlog for user stories which contributed to the development of this MVP: 
 
 cute things, lovely things, team work (makes the dream work!), and weekend zooming!
 shout out to humanity in these pandemic times!!! love to the universe and everyone!!
+
+## ScreenShot
+<img src="../Assets/pic/covidexscreen.png">
