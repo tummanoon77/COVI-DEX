@@ -69,4 +69,4 @@ cute things, lovely things, team work (makes the dream work!), and weekend zoomi
 shout out to humanity in these pandemic times!!! love to the universe and everyone!!
 
 ## ScreenShot
-<img src="../Assets/pic/covidexscreen.png">
+<img src="./Assets/pic/covidexscreen.png">
