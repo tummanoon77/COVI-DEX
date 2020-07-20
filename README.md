@@ -51,6 +51,11 @@ Bootstrap
 API calling technology with AJAX
 Introducing *Animate
 
+### Collaborators
+* [Kouros](https://github.com/koutron)
+* [Tummanoon](https://github.com/tummanoon77) 
+* [Mason](https://github.com/sungjinkimm) 
+* [Claudia](https://github.com/claudialoves)
 
 ## Contributing Developers
 
