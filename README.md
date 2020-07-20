@@ -1,6 +1,8 @@
 # COVIDEX
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/tummanoon77/COVI-DEX)
+
 ![GitHub followers](https://img.shields.io/github/followers/tummanoon77?label=Follow%20Tummanoon&style=social)
+
 ![GitHub stars](https://img.shields.io/github/stars/Tummanoon77/COVI-DEX?style=social)
 
 # Project Title
@@ -10,6 +12,7 @@ Project CoviDex is a simple data display app showing key coronavirus infection d
 ## deployment
 
 https://tummanoon77.github.io/COVI-DEX/
+
 Use the search input to search by US state and see the daily data populate for date | positive | recovered | death
 
 **add note about yesterday vs todays data logic
