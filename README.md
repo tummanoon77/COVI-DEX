@@ -7,10 +7,10 @@
 
 Project CoviDex is a simple data display app showing key coronavirus infection data (from local API) by state and for the US overall.
 
-## Getting Started
+## deployment
 
-The project deployment is a single URL click which opens in any browser: https://tummanoon77.github.io/COVI-DEX/
-Use the search input to search by US state and see the daily data populate for date | positive | recovered | deaths
+https://tummanoon77.github.io/COVI-DEX/
+Use the search input to search by US state and see the daily data populate for date | positive | recovered | death
 
 **add note about yesterday vs todays data logic
 
