@@ -45,9 +45,8 @@ to use our site
 4) buttons for previous searches persist at the top, click these to change data view to corresponding state
 
 
-## Built With
+## Tech list:
 
-Tech stack list:
 HTML/CSS/vanilla JS
 jQuery
 Bootstrap
