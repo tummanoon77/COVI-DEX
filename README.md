@@ -1,7 +1,7 @@
 # COVIDEX
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/tummanoon77/COVI-DEX)
 ![GitHub followers](https://img.shields.io/github/followers/tummanoon77?label=Follow%20Tummanoon&style=social)
-
+![GitHub stars](https://img.shields.io/github/stars/Tummanoon77/COVI-DEX?style=social)
 
 # Project Title
 
