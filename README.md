@@ -57,10 +57,6 @@ Introducing *Animate
 * [Mason](https://github.com/sungjinkimm) 
 * [Claudia](https://github.com/claudialoves)
 
-## Contributing Developers
-
-Overall team:
-Kouros Mousavi (PR master); Mason Kim; Tummanoon; Claudia Love Petty
 
 
 ## Versioning
