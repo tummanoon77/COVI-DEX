@@ -28,8 +28,6 @@ validate successful navigation to our site:
 
 [insert screenshot of default screen here]
 
-## Running the tests
-our site does not use automated tests
 
 ### Break down into end to end tests
 to use our site
