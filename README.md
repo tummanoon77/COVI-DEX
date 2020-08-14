@@ -17,12 +17,6 @@ Use the search input to search by US state and see the daily data populate for d
 
 **add note about yesterday vs todays data logic
 
-### Prerequisites
-
-You do not need to install anything to use CoviDex, but the latest chrome broswer is optimal
-https://www.google.com/chrome/?brand=CHBD&gclid=CjwKCAjw7e_0BRB7EiwAlH-goH0lOH3Ecz4m58rOTdqbwC2Ajg_XFwxYad03M_zfrEyfhHSM0lhCNRoCmMsQAvD_BwE&gclsrc=aw.ds
-
-
 ### Installing
 
 click: https://koutron.github.io/Project-CoviDex/
