@@ -26,8 +26,6 @@ End with an example of getting some data out of the system or using it for a lit
 
 validate successful navigation to our site:
 
-[insert screenshot of default screen here]
-
 
 ### Break down into end to end tests
 to use our site
