@@ -20,7 +20,7 @@ Use the search input to search by US state and see the daily data populate for d
 ### Installing
 
 click: https://tummanoon77.github.io/COVI-DEX/
-installation complete
+
 
 End with an example of getting some data out of the system or using it for a little demo
 
