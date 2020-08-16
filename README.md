@@ -69,7 +69,10 @@ shout out to humanity in these pandemic times!!! love to the universe and everyo
 
 ![GitHub](https://img.shields.io/github/license/Tummanoon77/COVI-DEX?style=plastic)
 
+![APM](https://img.shields.io/apm/l/vim-mode)
+
 MIT License
+
 
 ## ScreenShot
 <img src="./Assets/pic/covidexscreen.png">
