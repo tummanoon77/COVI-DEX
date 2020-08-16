@@ -73,7 +73,7 @@ shout out to humanity in these pandemic times!!! love to the universe and everyo
 
 MIT License
 
-Copyright (c) [2020] [Questival]
+Copyright (c) [2020] [COVI-DEX]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
