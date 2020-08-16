@@ -64,6 +64,8 @@ Jira backlog for user stories which contributed to the development of this MVP: 
 cute things, lovely things, team work (makes the dream work!), and weekend zooming!
 shout out to humanity in these pandemic times!!! love to the universe and everyone!!
 
+## ScreenShot
+<img src="./Assets/pic/covidexscreen.png">
 
 ## License
 
@@ -93,5 +95,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## ScreenShot
-<img src="./Assets/pic/covidexscreen.png">
