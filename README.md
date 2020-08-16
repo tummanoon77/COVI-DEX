@@ -45,8 +45,11 @@ Introducing *Animate
 
 ### Collaborators
 * [Kouros](https://github.com/koutron)
+
 * [Tummanoon](https://github.com/tummanoon77) 
+
 * [Mason](https://github.com/sungjinkimm) 
+
 * [Claudia](https://github.com/claudialoves)
 
 
@@ -60,6 +63,13 @@ Jira backlog for user stories which contributed to the development of this MVP: 
 
 cute things, lovely things, team work (makes the dream work!), and weekend zooming!
 shout out to humanity in these pandemic times!!! love to the universe and everyone!!
+
+
+## License
+
+![GitHub](https://img.shields.io/github/license/Tummanoon77/COVI-DEX?style=plastic)
+
+MIT License
 
 ## ScreenShot
 <img src="./Assets/pic/covidexscreen.png">
